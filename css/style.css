@@ -34,3 +34,7 @@ body{
 .row h3{
   text-align: center;
 }
+.col-md-4{
+  border: 2px solid gainsboro;
+  padding-left: 20px;
+}
