@@ -3,3 +3,19 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
 }
+/*navbar*/
+.navbar{
+  position: relative;
+  background-color: aqua;
+}
+.navbar .myphoto img{
+  width: 50px;
+  height: 50px;
+}
+.navbar p{
+  position: absolute;
+  top: 25%;
+  left: 30%;
+  font-size: 24px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
