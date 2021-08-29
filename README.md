@@ -13,6 +13,7 @@ Have a browser then click the gh-pages link to run the project.
 The languages used are:
 * HTML and CSS
 ## Support and contact details
- alphonce.kipngeno@student.moringaschool.com
+ * alphonce.kipngeno@student.moringaschool.com
+ * alphoncekipngeno@gmail.com
 ### License
 * LICENSED UNDER  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](License)
