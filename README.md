@@ -8,7 +8,7 @@ This is a website that gives brief description of Alphonce, a sofware developmen
 ## Setup/Installation Instructions.
 Have a browser then click the gh-pages link to run the project.
 ## Link to Github gh-pages.
-[gh-pages]
+[gh-pages](https://kips-alih.github.io/alphonce-landingpage-portfolio/)
 ## Technologies used
 The languages used are:
 * HTML and CSS
