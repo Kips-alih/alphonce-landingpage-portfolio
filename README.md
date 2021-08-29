@@ -5,6 +5,10 @@
 This is a website that gives brief description of Alphonce, a sofware development student at Moringa School.
 ## Design
 ![portfolio](https://user-images.githubusercontent.com/87495436/131219045-39da873c-abd0-4310-8993-b5e76878f6f5.png)
+## Setup/Installation Instructions.
+Have a browser then click the gh-pages link to run the project.
+## Link to Github gh-pages.
+[gh-pages]
 ## Technologies used
 The languages used are:
 * HTML and CSS
